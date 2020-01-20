@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\build\temp\app\bin\Release\netcoreapp3.1\app.exe
+C:\Users\kevin\Desktop\build\temp\app\bin\Release\netcoreapp3.1\app.deps.json
+C:\Users\kevin\Desktop\build\temp\app\bin\Release\netcoreapp3.1\app.runtimeconfig.json
+C:\Users\kevin\Desktop\build\temp\app\bin\Release\netcoreapp3.1\app.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\build\temp\app\bin\Release\netcoreapp3.1\app.dll
+C:\Users\kevin\Desktop\build\temp\app\bin\Release\netcoreapp3.1\app.pdb
+C:\Users\kevin\Desktop\build\temp\app\obj\Release\netcoreapp3.1\app.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\build\temp\app\obj\Release\netcoreapp3.1\app.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\build\temp\app\obj\Release\netcoreapp3.1\app.AssemblyInfo.cs
+C:\Users\kevin\Desktop\build\temp\app\obj\Release\netcoreapp3.1\app.dll
+C:\Users\kevin\Desktop\build\temp\app\obj\Release\netcoreapp3.1\app.pdb
