@@ -7,6 +7,7 @@ COPY *.csproj .
 RUN dotnet restore
 
 # copy and publish app and libraries
+# -o [project folder name]
 COPY . .
 RUN dotnet publish -c release -o /app
 

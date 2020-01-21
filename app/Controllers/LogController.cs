@@ -11,5 +11,10 @@ namespace app.Controllers
     [ApiController]
     public class LogController : ControllerBase
     {
+        [HttpGet]
+        public string Get()
+        {
+            return "hello world";
+        }
     }
 }

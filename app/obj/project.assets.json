@@ -6072,11 +6072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\Desktop\\build\\temp\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\Desktop\\docker\\temp\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Users\\kevin\\Desktop\\build\\temp\\app\\app.csproj",
+      "projectPath": "C:\\Users\\kevin\\Desktop\\docker\\temp\\app\\app.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\Desktop\\build\\temp\\app\\obj\\",
+      "outputPath": "C:\\Users\\kevin\\Desktop\\docker\\temp\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
